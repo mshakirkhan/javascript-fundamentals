@@ -4,3 +4,4 @@
 * 2. Constants (const)
 * 3. Primitive Types (String, Number, Boolean, Undefined, Null)
 * 4. Dynamic Typing
+* 5. Object (Refrence Type)
