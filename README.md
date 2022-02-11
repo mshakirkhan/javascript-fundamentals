@@ -7,3 +7,6 @@
 * 5. Object (Refrence Type)
 * 6. Array (Refrence Type)
 * 7. Functions (Refrence Type)
+
+## Operators
+* 2. Arithmetic Operators (+,-,%,/,%,**)
