@@ -11,7 +11,14 @@ function greeting(){
 function welcome(firstName, lastName){
     console.log("Welcome" + firstName + " " + lastName);
 }
-
 // Calling Function
 welcome("Shakir", "Khan");
 welcome("Muhammad", "Shakir");
+
+
+// Example 02 (Calculating Values)
+function square(number)
+{
+    return number * number; // Here we are not printing value, we are just return the result
+}
+console.log(square(2));
