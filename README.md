@@ -9,4 +9,4 @@
 * 7. Functions (Refrence Type)
 
 ## Operators
-* 2. Arithmetic Operators (+,-,%,/,%,**)
+* 2. Arithmetic Operators (+,-,*,/,%,**)
