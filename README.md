@@ -10,3 +10,4 @@
 
 ## Operators
 * 2. Arithmetic Operators (+,-,*,/,%,**)
+* 3. Arithmetic Operators (let a = 10)
