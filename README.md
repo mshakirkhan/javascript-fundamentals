@@ -13,3 +13,4 @@
 * 3. Arithmetic Operators (let a = 10)
 * 4. Comparison Operators (>,>=,<,<=,===)
 * 5. Equality Operators (Strict Equality (===), Lose Equality (==) )
+* 6. Ternary Operator (?,:)
