@@ -16,3 +16,4 @@
 * 6. Ternary Operator (?,:)
 * 7. Logical Operators (AND, OR, NOT)
 * 8. Logical Operators with Non-booleans
+* 10. Operators Precedence
