@@ -23,3 +23,6 @@
 2. Switch...case
 3. For Loop
 4. While Loop
+5. Do While Loop
+6. Infinite Loop
+7. For In Loop
