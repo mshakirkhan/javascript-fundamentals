@@ -26,3 +26,4 @@
 5. Do While Loop
 6. Infinite Loop
 7. For In Loop
+8. For Of Loop
