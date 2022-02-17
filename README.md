@@ -15,3 +15,4 @@
 * 5. Equality Operators (Strict Equality (===), Lose Equality (==) )
 * 6. Ternary Operator (?,:)
 * 7. Logical Operators (AND, OR, NOT)
+* 8. Logical Operators with Non-booleans
