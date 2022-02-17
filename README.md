@@ -22,3 +22,4 @@
 1. If...else
 2. Switch...case
 3. For Loop
+4. While Loop
