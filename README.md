@@ -14,3 +14,4 @@
 * 4. Comparison Operators (>,>=,<,<=,===)
 * 5. Equality Operators (Strict Equality (===), Lose Equality (==) )
 * 6. Ternary Operator (?,:)
+* 7. Logical Operators (AND, OR, NOT)
