@@ -32,3 +32,4 @@
 ## Objects
 1. Basics
 2. Factory Functions
+3. Constructor Functions
