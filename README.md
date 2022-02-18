@@ -28,3 +28,7 @@
 7. For In Loop
 8. For Of Loop
 9. Break and Continue
+
+## Objects
+1. Basics
+2. Factory Functions
