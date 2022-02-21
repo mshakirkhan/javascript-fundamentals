@@ -46,3 +46,5 @@
 14. Date
 
 ## Arrays
+1. Introduction
+2. Adding Elements
