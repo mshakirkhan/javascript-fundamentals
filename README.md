@@ -38,3 +38,8 @@
 6. Functions are Objects
 7. Value vs Reference Types
 8. Enumerating Properties of an Object
+9. Cloning an Object
+10. Garbage Collection
+11. Math
+12. String
+13. Template Literals
