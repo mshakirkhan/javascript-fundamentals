@@ -50,3 +50,4 @@
 2. Adding Elements
 3. Finding Elements (Primitives) (indexOf, lastIndexof, includes)
 4. Finding Elements (Reference Types)
+5. Arrow Functions
