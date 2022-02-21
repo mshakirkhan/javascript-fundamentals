@@ -34,3 +34,6 @@
 2. Factory Functions
 3. Constructor Functions
 4. Dynamic Nature of Objects
+5. Constructor Property
+6. Functions are Objects
+7. Value vs Reference Types
