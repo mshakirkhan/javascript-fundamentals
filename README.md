@@ -43,3 +43,6 @@
 11. Math
 12. String
 13. Template Literals
+14. Date
+
+## Arrays
