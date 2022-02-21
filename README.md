@@ -52,3 +52,4 @@
 4. Finding Elements (Reference Types)
 5. Arrow Functions
 6. Removing Elements
+7. Emptying an Array
