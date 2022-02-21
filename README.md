@@ -37,3 +37,4 @@
 5. Constructor Property
 6. Functions are Objects
 7. Value vs Reference Types
+8. Enumerating Properties of an Object
