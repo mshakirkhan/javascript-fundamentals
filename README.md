@@ -55,3 +55,4 @@
 7. Emptying an Array (For Solutions: [], length, splice, array)
 8. Combining and Slicing Arrays (concat, slice)
 9. The Spread Operator (...)
+10. Iterating an Array (For of loop, forEach method)
