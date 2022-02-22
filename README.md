@@ -66,5 +66,7 @@
 ## Functions
 1. Function Declarations vs Expressions
 2. Hoisting
-3. Arguments
-4. The Rest Operator
+3. Arguments  
+4. The Rest Operator (... in parameter)
+5. Default Parameters
+6. Getters and Setters
