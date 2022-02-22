@@ -62,3 +62,6 @@
 14. Filtering an Array (filter)
 15. Mapping an Array
 16. Reducing an Array
+
+## Functions
+1. Function Declarations vs Expressions
