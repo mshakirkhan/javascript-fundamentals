@@ -51,6 +51,6 @@
 3. Finding Elements (Primitives) (indexOf, lastIndexof, includes)
 4. Finding Elements (Reference Types)
 5. Arrow Functions
-6. Removing Elements
-7. Emptying an Array
-8. Combining and Slicing Arrays
+6. Removing Elements (pop, shift, splice)
+7. Emptying an Array (For Solutions: [], length, splice, array)
+8. Combining and Slicing Arrays (concat, slice)
