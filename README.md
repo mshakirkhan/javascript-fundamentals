@@ -54,3 +54,4 @@
 6. Removing Elements (pop, shift, splice)
 7. Emptying an Array (For Solutions: [], length, splice, array)
 8. Combining and Slicing Arrays (concat, slice)
+9. The Spread Operator (...)
