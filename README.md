@@ -70,3 +70,8 @@
 4. The Rest Operator (... in parameter)
 5. Default Parameters
 6. Getters and Setters
+7. Try and Catch
+8. Local vs Global Scope
+9. Let vs Var
+10. The this Keyword
+11. Changing this
