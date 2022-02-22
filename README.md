@@ -60,3 +60,5 @@
 12. Sorting Arrays (sort)
 13. Testing the Elements of an Array
 14. Filtering an Array (filter)
+15. Mapping an Array
+16. Reducing an Array
