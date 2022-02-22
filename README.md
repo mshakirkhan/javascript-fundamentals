@@ -47,9 +47,10 @@
 
 ## Arrays
 1. Introduction
-2. Adding Elements
+2. Adding Elements (push, unshift, splice)
 3. Finding Elements (Primitives) (indexOf, lastIndexof, includes)
 4. Finding Elements (Reference Types)
 5. Arrow Functions
 6. Removing Elements
 7. Emptying an Array
+8. Combining and Slicing Arrays
