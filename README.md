@@ -65,3 +65,4 @@
 
 ## Functions
 1. Function Declarations vs Expressions
+2. Hoisting
